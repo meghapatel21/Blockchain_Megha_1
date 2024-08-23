@@ -10,4 +10,4 @@ Blockchain Lab Assignment
   - **Random Number Generation:** Produces numbers between 0 and 9.
   - **Update Lottery Numbers:** Modify numbers for existing entries.
   - **Register New Entries:** Create new lottery entries with random numbers.
-  - **Check Winning Status:** Verify if an entry matches the winning numbers
+  - **Check Winning Status:** Verify if an entry matches the winning numbers.
