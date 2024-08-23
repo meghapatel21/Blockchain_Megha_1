@@ -1,9 +1,13 @@
-Assignmnet 3 : IU2141230188_Megha Submitting Date: 23/08/2024
+# assignment-repo
+Blockchain Lab Assignment 
 
-Instructions Step 1 : Clone the repository
+## Contracts Overview
 
-git clone https://github.com/meghapatel21/Blockchain_Megha_1 Step 2 : run below command in you terminal.
-
-cd Blockchain_Megha_1 node assignment.js Assignment Level The assignment level for this task is: Medium
-
-Code Quality Code quality is maintained throughout the assignment.
+### Lottery System Contract
+- **File:** `LotterySystem.sol`
+- **Description:** A Solidity-based lottery contract that allows users to register for new entries, update their numbers, and check if they match the winning set,
+- **Features:**
+  - **Random Number Generation:** Produces numbers between 0 and 9.
+  - **Update Lottery Numbers:** Modify numbers for existing entries.
+  - **Register New Entries:** Create new lottery entries with random numbers.
+  - **Check Winning Status:** Verify if an entry matches the winning numbers
