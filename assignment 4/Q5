@@ -17,7 +17,6 @@ contract DonationContract {
 
         // Update the donation mapping
         donations[msg.sender][recipient] += msg.value;
-
         // Emit an event for the donation
         emit DonationMade(msg.sender, recipient, msg.value);
     }
